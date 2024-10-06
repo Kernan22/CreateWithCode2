@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: 
+  m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitLogCache
+  cacheType: 3
+  lastUpdatedAtString: 2024-10-06T12:05:40.664+01:00
+  initializedAtString: 2024-10-06T12:05:39.636+01:00
+  log:
+  - commitID: 049cc6314aa94942b07d1c21c45be6961f3cc1c7
+    mergeA: 
+    mergeB: 
+    authorName: Kernan22
+    authorEmail: pjkernan22@gmail.com
+    commitEmail: pjkernan22@gmail.com
+    commitName: Kernan22
+    summary: Your commit message
+    description: 
+    timeString: 2024-09-30T15:42:40.000+01:00
+    commitTimeString: 2024-09-30T15:42:40.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Pkern\.gitattributes
+      projectPath: ..\..\..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
