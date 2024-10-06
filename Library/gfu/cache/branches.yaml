@@ -13,26 +13,47 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:BranchesCache
   cacheType: 2
-  lastUpdatedAtString: 2024-10-06T12:05:40.416+01:00
-  initializedAtString: 2024-10-06T12:05:40.401+01:00
-  localBranches:
-  - name: master
-    tracking: 
-  remoteBranches: []
-  remotes: []
+  lastUpdatedAtString: 2024-10-06T17:30:38.912+01:00
+  initializedAtString: 2024-10-06T17:00:23.293+01:00
+  localBranches: []
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/Kernan22/CreateWithCode2.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
   localConfigBranches:
-    keys:
-    - master
-    values:
-    - name: master
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
-  remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
-  configRemotes:
     keys: []
     values: []
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - main
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/Kernan22/CreateWithCode2.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/Kernan22/CreateWithCode2.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/Kernan22/CreateWithCode2.git

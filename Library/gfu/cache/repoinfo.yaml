@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:RepositoryInfoCache
   cacheType: 1
-  lastUpdatedAtString: 2024-10-06T14:40:11.672+01:00
-  initializedAtString: 2024-10-06T14:40:11.672+01:00
+  lastUpdatedAtString: 2024-10-06T16:50:40.539+01:00
+  initializedAtString: 2024-10-06T16:50:40.539+01:00
   currentGitRemote:
     name: origin
-    url: https://github.com/Kernan22/2GT24_25_PKernan_40133621/tree/main/Create%20with%20Code%20Part%201%20Mission%202%20-%20Basic%20Gameplay
+    url: https://github.com/Kernan22/CreateWithCode2.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: 
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: master
+    name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Kernan22/CreateWithCode2.git
+    trackingBranch: main
   currentConfigRemote:
     name: origin
-    url: https://github.com/Kernan22/2GT24_25_PKernan_40133621/tree/main/Create%20with%20Code%20Part%201%20Mission%202%20-%20Basic%20Gameplay
-  currentHead: 049cc63
+    url: https://github.com/Kernan22/CreateWithCode2.git
+  currentHead: b9f9cb0
