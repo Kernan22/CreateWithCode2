@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitStatusCache
   cacheType: 6
-  lastUpdatedAtString: 2024-10-07T11:16:06.421+01:00
-  initializedAtString: 2024-10-07T10:36:14.740+01:00
+  lastUpdatedAtString: 2024-10-07T15:49:07.607+01:00
+  initializedAtString: 2024-10-07T15:38:41.959+01:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assembly-CSharp.csproj
@@ -40,6 +40,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Prefabs\Food_Steak_01.prefab
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assets\Prefabs\Food_Steak_01.prefab
+    projectPath: Assets\Prefabs\Food_Steak_01.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Prototype 2.unity
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assets\Scenes\Prototype
       2.unity
@@ -47,117 +53,159 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\DestroyOutOfBounds.cs
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assets\Scripts\DestroyOutOfBounds.cs
+    projectPath: Assets\Scripts\DestroyOutOfBounds.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\DetectCollision.cs
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assets\Scripts\DetectCollision.cs
+    projectPath: Assets\Scripts\DetectCollision.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\DetectCollision.cs.meta
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assets\Scripts\DetectCollision.cs.meta
+    projectPath: Assets\Scripts\DetectCollision.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scripts\SpawnManager.cs
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assets\Scripts\SpawnManager.cs
     projectPath: Assets\Scripts\SpawnManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\SpawnManager.cs.meta
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Assets\Scripts\SpawnManager.cs.meta
-    projectPath: Assets\Scripts\SpawnManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\11\111b03d1bb7b66212a7810df77cdf542
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\11\111b03d1bb7b66212a7810df77cdf542
-    projectPath: Library\Artifacts\11\111b03d1bb7b66212a7810df77cdf542
+  - path: Library\Artifacts\0f\0ffed1e5eb613bee6856df24369e1829
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\0f\0ffed1e5eb613bee6856df24369e1829
+    projectPath: Library\Artifacts\0f\0ffed1e5eb613bee6856df24369e1829
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26bfbaf91ce04d839b3fdd3dd37044cc
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\26\26bfbaf91ce04d839b3fdd3dd37044cc
+    projectPath: Library\Artifacts\26\26bfbaf91ce04d839b3fdd3dd37044cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3a\3ab19264463b302ada37eccd6fb8f9c2
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\3a\3ab19264463b302ada37eccd6fb8f9c2
+    projectPath: Library\Artifacts\3a\3ab19264463b302ada37eccd6fb8f9c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3dd8a0e3a575f2df7c0915d9cf9e7684
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\3d\3dd8a0e3a575f2df7c0915d9cf9e7684
+    projectPath: Library\Artifacts\3d\3dd8a0e3a575f2df7c0915d9cf9e7684
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\41\41ab8981a88494a82d7081229fe8a748
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\41\41ab8981a88494a82d7081229fe8a748
     projectPath: Library\Artifacts\41\41ab8981a88494a82d7081229fe8a748
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5c\5c1870ab0fb9f41b33cac3dc024d6355
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\5c\5c1870ab0fb9f41b33cac3dc024d6355
-    projectPath: Library\Artifacts\5c\5c1870ab0fb9f41b33cac3dc024d6355
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\68\683ee2f6673205f9bdac20d1faf4be18
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\68\683ee2f6673205f9bdac20d1faf4be18
-    projectPath: Library\Artifacts\68\683ee2f6673205f9bdac20d1faf4be18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\73\73e7f8a0b6a1ec5d35e4a11a93af00b2
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\73\73e7f8a0b6a1ec5d35e4a11a93af00b2
-    projectPath: Library\Artifacts\73\73e7f8a0b6a1ec5d35e4a11a93af00b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\74\747b6cde2d004d939a28aeacc0c0ab36
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\74\747b6cde2d004d939a28aeacc0c0ab36
-    projectPath: Library\Artifacts\74\747b6cde2d004d939a28aeacc0c0ab36
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: Library\Artifacts\6d\6d0616795c52837a0cc52509c575d6a0
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\6d\6d0616795c52837a0cc52509c575d6a0
+    projectPath: Library\Artifacts\6d\6d0616795c52837a0cc52509c575d6a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6d\6ddc1d610e8178662cd19c8957576b0a
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\6d\6ddc1d610e8178662cd19c8957576b0a
+    projectPath: Library\Artifacts\6d\6ddc1d610e8178662cd19c8957576b0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\70\707a56ffe59d27ad1e6ddc383ebbbc91
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\70\707a56ffe59d27ad1e6ddc383ebbbc91
+    projectPath: Library\Artifacts\70\707a56ffe59d27ad1e6ddc383ebbbc91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\74d693ed9b6a7202a806bbd9260f5f48
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\74\74d693ed9b6a7202a806bbd9260f5f48
+    projectPath: Library\Artifacts\74\74d693ed9b6a7202a806bbd9260f5f48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\75\75676e9d33cef4420d0cf7ee36095300
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\75\75676e9d33cef4420d0cf7ee36095300
     projectPath: Library\Artifacts\75\75676e9d33cef4420d0cf7ee36095300
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\82\822591ae44d270f5d3abd57a82c7da14
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\82\822591ae44d270f5d3abd57a82c7da14
-    projectPath: Library\Artifacts\82\822591ae44d270f5d3abd57a82c7da14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\87\87ad86177bec778c1ea605796f298736
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\87\87ad86177bec778c1ea605796f298736
-    projectPath: Library\Artifacts\87\87ad86177bec778c1ea605796f298736
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\88\886b1b60eb28eb1a8e5b036b8f1be5b5
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\88\886b1b60eb28eb1a8e5b036b8f1be5b5
-    projectPath: Library\Artifacts\88\886b1b60eb28eb1a8e5b036b8f1be5b5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\78\7896203c0acd390da1e2aa9f7d3daa60
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\78\7896203c0acd390da1e2aa9f7d3daa60
+    projectPath: Library\Artifacts\78\7896203c0acd390da1e2aa9f7d3daa60
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\98\98255aecbf012d5f80cc1d4c1563dab3
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\98\98255aecbf012d5f80cc1d4c1563dab3
-    projectPath: Library\Artifacts\98\98255aecbf012d5f80cc1d4c1563dab3
+  - path: Library\Artifacts\80\80dd75209fb7bd770f457f08a1ee1ccd
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\80\80dd75209fb7bd770f457f08a1ee1ccd
+    projectPath: Library\Artifacts\80\80dd75209fb7bd770f457f08a1ee1ccd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\86\86bf1a3bbf11bbb6a379430677f523f0
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\86\86bf1a3bbf11bbb6a379430677f523f0
+    projectPath: Library\Artifacts\86\86bf1a3bbf11bbb6a379430677f523f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\93\934af33bbdaa8817c197a0cd5fb34853
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\93\934af33bbdaa8817c197a0cd5fb34853
+    projectPath: Library\Artifacts\93\934af33bbdaa8817c197a0cd5fb34853
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\c1\c11c205da1ecf2d6745a4602ba83b22e
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\c1\c11c205da1ecf2d6745a4602ba83b22e
-    projectPath: Library\Artifacts\c1\c11c205da1ecf2d6745a4602ba83b22e
+  - path: Library\Artifacts\a1\a1f8d2ab9bad9043cd35773bcd4074af
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\a1\a1f8d2ab9bad9043cd35773bcd4074af
+    projectPath: Library\Artifacts\a1\a1f8d2ab9bad9043cd35773bcd4074af
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b23e9d860c202b59907bc6ea54bbb951
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\b2\b23e9d860c202b59907bc6ea54bbb951
+    projectPath: Library\Artifacts\b2\b23e9d860c202b59907bc6ea54bbb951
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\Artifacts\c2\c2ab2bae38d406c4921f6cc50259fdf7
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\c2\c2ab2bae38d406c4921f6cc50259fdf7
     projectPath: Library\Artifacts\c2\c2ab2bae38d406c4921f6cc50259fdf7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ce\ce34b9da7001956e0d8d5be2ad601e06
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\ce\ce34b9da7001956e0d8d5be2ad601e06
+    projectPath: Library\Artifacts\ce\ce34b9da7001956e0d8d5be2ad601e06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d8\d814503aea76451727e34793b394ca47
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\d8\d814503aea76451727e34793b394ca47
+    projectPath: Library\Artifacts\d8\d814503aea76451727e34793b394ca47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\dd\dd3d13b9d60d95525049b3e3f36cc6e5
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\dd\dd3d13b9d60d95525049b3e3f36cc6e5
+    projectPath: Library\Artifacts\dd\dd3d13b9d60d95525049b3e3f36cc6e5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Artifacts\e8\e84deb1290a617aaf0830a8ae483a09d
     fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\e8\e84deb1290a617aaf0830a8ae483a09d
     projectPath: Library\Artifacts\e8\e84deb1290a617aaf0830a8ae483a09d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ec\ec5b78fe5d92d8120413b8800dbd9707
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\ec\ec5b78fe5d92d8120413b8800dbd9707
-    projectPath: Library\Artifacts\ec\ec5b78fe5d92d8120413b8800dbd9707
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ef\efd126ae37102f0e3be002c0e5888ed8
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\Artifacts\ef\efd126ae37102f0e3be002c0e5888ed8
-    projectPath: Library\Artifacts\ef\efd126ae37102f0e3be002c0e5888ed8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -365,9 +413,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
+  - path: Library\StateCache\PrefabStageHierarchy\1c\1c2f95cf2f14bfc318166f094381d998.json
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\StateCache\PrefabStageHierarchy\1c\1c2f95cf2f14bfc318166f094381d998.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\1c\1c2f95cf2f14bfc318166f094381d998.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\PrefabStageHierarchy\78\788d03762400ceae31014b4951cbc7aa.json
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\StateCache\PrefabStageHierarchy\78\788d03762400ceae31014b4951cbc7aa.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\78\788d03762400ceae31014b4951cbc7aa.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\PrefabStageHierarchy\dd\dd0dc8b7cc57755692aec7b4914542d1.json
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\StateCache\PrefabStageHierarchy\dd\dd0dc8b7cc57755692aec7b4914542d1.json
+    projectPath: Library\StateCache\PrefabStageHierarchy\dd\dd0dc8b7cc57755692aec7b4914542d1.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\3b\3b3f562421c93692ff659ffdf0d67ac6.json
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\StateCache\SceneView\3b\3b3f562421c93692ff659ffdf0d67ac6.json
+    projectPath: Library\StateCache\SceneView\3b\3b3f562421c93692ff659ffdf0d67ac6.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\79\79335321fceb9ed7097e6e168c23f82c.json
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\StateCache\SceneView\79\79335321fceb9ed7097e6e168c23f82c.json
+    projectPath: Library\StateCache\SceneView\79\79335321fceb9ed7097e6e168c23f82c.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\a7\a7a294d5e98c7e124a0e106dd07b1b62.json
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\StateCache\SceneView\a7\a7a294d5e98c7e124a0e106dd07b1b62.json
+    projectPath: Library\StateCache\SceneView\a7\a7a294d5e98c7e124a0e106dd07b1b62.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\b7\b70a3324fbd1ba3aa95d58f7fc6cd9bb.json
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Library\StateCache\SceneView\b7\b70a3324fbd1ba3aa95d58f7fc6cd9bb.json
+    projectPath: Library\StateCache\SceneView\b7\b70a3324fbd1ba3aa95d58f7fc6cd9bb.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -407,21 +491,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-34cb3f6e8e7a9cf4184daeb7bb6603ab
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Temp\FSTimeGet-34cb3f6e8e7a9cf4184daeb7bb6603ab
-    projectPath: Temp\FSTimeGet-34cb3f6e8e7a9cf4184daeb7bb6603ab
+  - path: Temp\FSTimeGet-402e0b92940201849865af5b223a6c67
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Temp\FSTimeGet-402e0b92940201849865af5b223a6c67
+    projectPath: Temp\FSTimeGet-402e0b92940201849865af5b223a6c67
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-360aa94c7511d40469c9d3e20c73b93e
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Temp\FSTimeGet-360aa94c7511d40469c9d3e20c73b93e
-    projectPath: Temp\FSTimeGet-360aa94c7511d40469c9d3e20c73b93e
+  - path: Temp\FSTimeGet-5fef4c8e579372640adf547e97d15d03
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Temp\FSTimeGet-5fef4c8e579372640adf547e97d15d03
+    projectPath: Temp\FSTimeGet-5fef4c8e579372640adf547e97d15d03
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-65e4a32658aa7824cb0a8767891ced52
-    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Temp\FSTimeGet-65e4a32658aa7824cb0a8767891ced52
-    projectPath: Temp\FSTimeGet-65e4a32658aa7824cb0a8767891ced52
+  - path: Temp\FSTimeGet-6347e1298eef9de4a9c27ff01edceff5
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\Temp\FSTimeGet-6347e1298eef9de4a9c27ff01edceff5
+    projectPath: Temp\FSTimeGet-6347e1298eef9de4a9c27ff01edceff5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -449,3 +533,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: UserSettings\Layouts\default-2022.dwlt
+    fullPath: C:\Users\Pkern\REPOS\Create With Code 2\CreateWithCode2\UserSettings\Layouts\default-2022.dwlt
+    projectPath: UserSettings\Layouts\default-2022.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
