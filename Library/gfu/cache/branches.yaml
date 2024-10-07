@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:BranchesCache
   cacheType: 2
-  lastUpdatedAtString: 2024-10-06T17:30:38.912+01:00
-  initializedAtString: 2024-10-06T17:00:23.293+01:00
-  localBranches: []
+  lastUpdatedAtString: 2024-10-07T11:10:58.137+01:00
+  initializedAtString: 2024-10-07T10:36:15.139+01:00
+  localBranches:
+  - name: main
+    tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -30,8 +32,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - main
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/Kernan22/CreateWithCode2.git
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin

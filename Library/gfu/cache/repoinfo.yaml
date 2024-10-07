@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:RepositoryInfoCache
   cacheType: 1
-  lastUpdatedAtString: 2024-10-06T16:50:40.539+01:00
-  initializedAtString: 2024-10-06T16:50:40.539+01:00
+  lastUpdatedAtString: 2024-10-07T10:36:14.714+01:00
+  initializedAtString: 2024-10-07T10:36:14.714+01:00
   currentGitRemote:
     name: origin
     url: https://github.com/Kernan22/CreateWithCode2.git
@@ -35,4 +35,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/Kernan22/CreateWithCode2.git
-  currentHead: b9f9cb0
+  currentHead: 77b5716
